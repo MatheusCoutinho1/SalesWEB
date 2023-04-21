@@ -36,7 +36,7 @@ using SalesWebMvc.Models.ViewModels;
 
 #line default
 #line hidden
-            BeginContext(64,120,true);
+            BeginContext(64, 120, true);
             WriteLiteral("\r\n<h1 class=\"text-danger\">Error.</h1>\r\n<h2 class=\"text-danger\">An error occurred while processing your request.</h2>\r\n\r\n");
             EndContext();
 #line 9 "C:\Users\Matheus\source\repos\SalesWebMvc\SalesWebMvc\Views\Shared\Error.cshtml"
